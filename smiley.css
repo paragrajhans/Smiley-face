@@ -1,0 +1,117 @@
+.container {
+	width: 100%;
+	height: 100%;
+}
+
+.smiley1 {
+	
+	height: 400px;
+	float: left;
+	margin-left: 100px;
+	
+}
+
+.smiley2 {
+	
+	float: right;
+	height: 400px;
+	margin-right: 10px;
+	border-radius: 100%;
+	margin-right: 100px;
+	
+}
+
+.smiley1, .smiley2 {
+	
+	width: 30%;
+	background-color: yellow;
+	position: relative;
+	border-radius: 100%;
+	box-shadow: 2px 2px 1px #B8B8B8;
+	margin-top: 10px;
+	
+}
+
+.s1lefteye {
+	margin-left: 120px;
+}
+
+.s1righteye {
+	margin-left: 260px;
+}
+
+.s1lefteye, .s1righteye {
+	
+	background-color: black;
+	height: 20px;
+	width: 20px;
+	border-style: dashed;
+	border-width: 20px;
+	border-radius: 100%;
+	position: absolute;
+	margin-top: 100px;
+	
+}
+.s1mouth {
+	
+	border-bottom: 30px solid;
+	border-top-style: none;
+	border-radius: 100%;
+	border-width: 20px;
+	height: 300px;
+	width: 80%;
+	margin-left: 40px;
+	margin-top: 40px;
+	
+	
+}
+
+.s2lefteye {
+	margin-left: 120px;
+}
+
+.s2righteye {	
+	margin-left: 260px;
+}
+
+.s2lefteye, .s2righteye {
+	
+	background-color: black;
+	height: 20px;
+	width: 5px;
+	border-style: dashed;
+	border-width: 20px;
+	border-radius: 100%;
+	position: absolute;
+	margin-top: 100px;
+	
+}
+
+.s2mouth {
+	
+	background-color: black;
+	height: 10px;
+	width: 190px;
+	border-radius: 10px;
+	border-style: solid;
+	margin-left: 110px;
+	margin-top: 280px;
+	
+}
+
+.s1mouth, .s2mouth {
+	position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
